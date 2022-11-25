@@ -278,4 +278,4 @@ const ContenedorVistaInicial = styled.div`
       font-size: 35px;
     }
   }
-`;
+`

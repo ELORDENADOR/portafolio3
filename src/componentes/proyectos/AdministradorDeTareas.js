@@ -293,4 +293,4 @@ const ContenedorAdministradorDeTareas = styled.div`
     width: 40px;
     height: 40px;
   }
-`;
+`

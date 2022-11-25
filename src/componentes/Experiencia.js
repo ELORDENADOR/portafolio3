@@ -364,4 +364,4 @@ const ContenedorExperiencia = styled.div`
   strong {
     line-height: 30pt;
   }
-`;
+`

@@ -201,4 +201,4 @@ const ContenedorProyectos = styled.div`
   .configuracionTituloproyectos:hover {
     opacity: 0.8;
   }
-`;
+`

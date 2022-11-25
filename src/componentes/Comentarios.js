@@ -236,4 +236,4 @@ const ContenedorComentarios = styled.div`
     font-family: "Pathway Gothic One", sans-serif;
     font-size: 30px;
   }
-`;
+`

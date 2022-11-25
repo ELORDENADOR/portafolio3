@@ -1237,4 +1237,4 @@ VISTA PUNTAJE */
     height: 30px;
     color: green;
   }
-`;
+`

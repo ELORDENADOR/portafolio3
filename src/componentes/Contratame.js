@@ -230,4 +230,4 @@ const ContenedorContratame = styled.div`
     color: #ffff1a;
     font-size: 30px;
   }
-`;
+`

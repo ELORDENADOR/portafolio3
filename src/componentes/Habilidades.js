@@ -160,4 +160,4 @@ const ContenedorHabilidades = styled.div`
   .nombreHabilidadTecnica {
     font-family: "Anton", sans-serif;
   }
-`;
+`

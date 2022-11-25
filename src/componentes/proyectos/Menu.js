@@ -228,8 +228,13 @@ const ContenedorMenu = styled.div`
     .contenedorTraducciones {
       display: flex;
       flex-direction: column;
-      background: #2f4f4f;
-      z-index: 4;
+      background: #527a7a;
+      z-index: 5;   
+      border-radius: 10% / 50%;
+      margin-left: 20px;
+      text-align: center;
+      padding: 5px;
+      border: solid 2px white;
     }
 
     .confBotonMenu {
@@ -237,4 +242,4 @@ const ContenedorMenu = styled.div`
       font-size: 20px;
     }
   }
-`;
+`

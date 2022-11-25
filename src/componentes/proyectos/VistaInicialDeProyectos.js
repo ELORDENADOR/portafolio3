@@ -37,4 +37,4 @@ const ContenedorVistaInicialDeProyectos = styled.div`
     text-shadow: 7px 4px 20px black;
     color: white;
   }
-`;
+`

@@ -509,16 +509,9 @@ text-align: center;
   border: solid 1px;
 }
 
-
-
-
   #contenedorTexto{
       width: 300px;
       height: 490px; 
     }
       }
-       
-
-
-
 `

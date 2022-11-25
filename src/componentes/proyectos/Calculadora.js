@@ -515,4 +515,4 @@ justify-content: center; */
     font-family: "Pathway Gothic One", sans-serif;
     font-size: 20px;
   }
-`;
+`

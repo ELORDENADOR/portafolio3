@@ -1559,4 +1559,4 @@ const ContenedorCursoDeIdiomas = styled.nav`
       padding-right: 20px;
     }
   }
-`;
+`

@@ -240,4 +240,113 @@ const ContenedorSobreMi = styled.div`
       height: 200px;
     }
   }
-`;
+
+  @media (max-width: 394px) {
+    .configuracionImg {      
+      width: 230px;
+      height: 280px;
+      
+      margin-left: -70px;
+      
+    }
+
+    .configuracionImg:hover {      
+      opacity: 1;
+      /* transform: none; */
+    }
+    
+
+  
+
+
+  .contenedorImagenesYTextosIndividual{
+    padding-bottom: 70px;
+  }
+
+
+  .contenedorImagenesYTextosIndividual:active{
+
+    @media (max-width: 394px) {
+
+
+    .configuracionImg {      
+      width: 230px;
+      height: 280px;      
+      margin-left: -70px;
+      animation-play-state: paused;
+      transform: none;
+  }
+
+
+  .configuracionText {  
+      position: absolute;
+    color: white;
+    display: block;
+    top: 265px;
+    left: -70px;
+  }
+
+
+
+    }
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .contenedorImagenesYTextosIndividual:hover{
+
+      animation-play-state: paused;
+  transform: none;
+
+@media (max-width: 394px) {
+
+
+.configuracionImg {      
+  width: 230px;
+  height: 280px;      
+  margin-left: -70px;
+  animation-play-state: paused;
+  transform: none;
+}
+
+
+.configuracionText {  
+  position: absolute;
+color: white;
+display: block;
+top: 265px;
+left: -70px;
+}
+
+
+
+}
+
+
+}
+
+
+
+
+
+
+
+
+  }
+
+`
