@@ -86,24 +86,20 @@ export const Comentarios = (props) => {
           <div>
             <p>
               {" "}
-              Please write your commentary, which project you want you to do or
-              what improvement I can make to the page
+              Leave your comment
             </p>
           </div>
         ) : props.idioma === "frances" ? (
           <div>
             <p>
-              S’il vous plaît écrivez votre commentaire, quel projet vous voulez
-              que vous fassiez ou quoi amélioration que je peux apporter à la
-              page
+             laisse ton commentaire
             </p>
           </div>
         ) : (
           <div>
             <p>
               {" "}
-              Porfavor Escriba su cometario, que proyecto quiere que realice o
-              que mejora puedo hacerle a la pagina
+              Deja tu comentario
             </p>
           </div>
         )}

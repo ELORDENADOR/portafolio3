@@ -52,7 +52,7 @@ export const Experiencia = (props) => {
                     <strong>June 17 2021- Current </strong>
                     <br></br>
                     Multinational that has allowed me work in large companies,
-                    such as Alfa insurance and currently Bancodeoocidente,
+                    such as Alfa insurance and currently Bancodeoccidente,
                     providing support I have implemented solutions
                     technological, with technologies such as java and oracle.
                   </p>
@@ -77,9 +77,9 @@ export const Experiencia = (props) => {
                 <div id="subCaja3">
                   <a
                     className="paginaWeb"
-                    href="https://www.ricardogonzalezramirez.com/"
+                    href="https://decoramoscartagena.com/" 
                   >
-                    www.ricardogonzalezramirez.com
+                    www.decoramoscartagena.com
                   </a>
                 </div>
               </div>
@@ -134,7 +134,7 @@ export const Experiencia = (props) => {
                     <br></br>
                     Multinationale actuelle qui m’a permis travailler dans de
                     grandes entreprises, telles que l’assurance Alfa et
-                    actuellement Bancodeoocidente, fournir un support J’ai mis
+                    actuellement Banco de Occidente, fournir un support J’ai mis
                     en œuvre des solutions technologique, avec des technologies
                     telles que java et oracle.
                   </p>
@@ -160,9 +160,9 @@ export const Experiencia = (props) => {
                 <div id="subCaja3">
                   <a
                     className="paginaWeb"
-                    href="https://www.ricardogonzalezramirez.com/"
+                    href="https://decoramoscartagena.com/" 
                   >
-                    www.ricardogonzalezramirez.com
+                    www.decoramoscartagena.com
                   </a>
                 </div>
               </div>
@@ -183,7 +183,7 @@ export const Experiencia = (props) => {
                   <p className="textoExperiencia">
                     <strong>Diciembre 1 del 2011 - Marzo 15 del 2015</strong>
                     <br></br>
-                    En los 4 sños que labore en esta empresa, brinde Soporte y
+                    En los 4 años que labore en esta empresa, brinde Soporte y
                     desarrolle soluciones con tecnologias como drupal, php y
                     mysql server.
                   </p>
@@ -227,7 +227,7 @@ export const Experiencia = (props) => {
                     <strong>Junio 17 del 2021 - Actualemnte</strong>
                     <br></br>
                     Multinacional que me ha permitido trabajar en grandes
-                    empresas, como seguros Alfa y actualmente Banco deoocidente,
+                    empresas, como seguros Alfa y actualmente Bancodeoccidente,
                     brindando soporte he implementando soluciones tecnologicas,
                     con tecnologias como java y oracle.
                   </p>
@@ -256,9 +256,9 @@ export const Experiencia = (props) => {
                 <div id="subCaja3">
                   <a
                     className="paginaWeb"
-                    href="https://www.ricardogonzalezramirez.com/"
+                    href="https://decoramoscartagena.com/"                    
                   >
-                    www.ricardogonzalezramirez.com
+                    www.decoramoscartagena.com
                   </a>
                 </div>
               </div>
